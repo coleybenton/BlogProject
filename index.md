@@ -1,7 +1,5 @@
-<!DOCTYPE html>
 <html>
   <head>
-    <meta charset=UTF-8>
     <title>Coleybenton's Blog Project</title>
   </head>
   <body>
@@ -11,7 +9,7 @@
 <hr/>
 <hr/>
     <h3>Updates</h3>
-      <p>Created index.md, hosted on GitHub Pages, first time for everything. Markdown is interesting, will try implementing it after first rough draft site. Plan is to follow TheOdinProject Curriculum, creating side projects to accelerate growth and learning. </p>
+      - <p>Created index.md, hosted on GitHub Pages, first time for everything. Markdown is interesting, will try implementing it after first rough draft site. Plan is to follow TheOdinProject Curriculum, creating side projects to accelerate growth and learning. </p>
 <hr/>
 <hr/>
     <h3>My Work</h3>
